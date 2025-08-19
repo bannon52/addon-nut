@@ -1,8 +1,8 @@
 ---
 name: Network UPS Tools
 version: dev
-slug: nut
-description: Manage battery backup (UPS) devices
+slug: nut_modbus
+description: NUT with apc_modbus over USB (patched libmodbus)
 url: https://github.com/hassio-addons/addon-nut
 codenotary: codenotary@frenck.dev
 startup: system
